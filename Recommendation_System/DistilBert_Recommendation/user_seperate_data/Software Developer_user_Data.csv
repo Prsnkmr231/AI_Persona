@@ -1,0 +1,76 @@
+user_id,user_name,role,skills,years_of_experience,bio,area_of_interest
+1,Sara Graham DDS,Software Developer,"Django, C++, SQL",0,"Software Developer with solid background in Django, C++, SQL and extensive experience in Embedded Systems.",Embedded Systems
+2,Adam Garcia,Software Developer,"React, JavaScript, Flask",0,Innovative Software Developer focused on pushing the boundaries in Embedded Systems.,Embedded Systems
+3,Sherry Fisher,Software Developer,"Python, Java, SQL",0,"Highly skilled Software Developer committed to excellence in Python, Java, SQL.",Machine Learning
+4,David Stewart,Software Developer,"Python, C++, Flask",0,Experienced Software Developer with a proven track record in delivering high-quality solutions.,Machine Learning
+5,Amber Smith,Software Developer,"Python, C++, SQL",0,"Software Developer specialized in Embedded Systems, with a focus on creating impactful solutions.",Embedded Systems
+6,Mrs. Sheila Martin,Software Developer,"Node.js, Python, SQL",0,"Software Developer with solid background in Node.js, Python, SQL and extensive experience in Cloud Computing.",Cloud Computing
+7,Richard Knight,Software Developer,"Django, Node.js, React",0,"Software Developer with solid background in Django, Node.js, React and extensive experience in Web Development.",Web Development
+8,Brian Mathews,Software Developer,"Node.js, Python, Django",0,An enthusiastic Software Developer passionate about learning and growing in the tech industry.,Web Development
+9,Ashlee Jackson,Software Developer,"Django, Flask, Python",0,Experienced Software Developer with a proven track record in delivering high-quality solutions.,Cloud Computing
+10,Denise Hammond,Software Developer,"Git, Python, Node.js",0,"Software Developer with solid background in Git, Python, Node.js and extensive experience in Embedded Systems.",Embedded Systems
+11,Patrick Dawson,Software Developer,"Git, SQL, Python",0,"Goal-oriented Software Developer with expertise in Git, SQL, Python.",NLP
+12,Samuel Delgado,Software Developer,"Django, Git, Flask",0,"Goal-oriented Software Developer with expertise in Django, Git, Flask.",Web Development
+13,Roy Hutchinson,Software Developer,"Flask, Node.js, Git",0,"Dedicated professional with strong expertise in Flask, Node.js, Git and a passion for Cloud Computing.",Cloud Computing
+14,Sarah Franklin,Software Developer,"Python, Java, React",0,A self-motivated Software Developer who enjoys problem-solving and innovation.,Embedded Systems
+15,Laura Cherry,Software Developer,"Django, React, SQL",0,"Goal-oriented Software Developer with expertise in Django, React, SQL.",Embedded Systems
+16,Jamie Martinez,Software Developer,"Flask, Java, Node.js, JavaScript",2,"Dedicated professional with strong expertise in Flask, Java, Node.js, JavaScript and a passion for Machine Learning.",Machine Learning
+17,Alex Ruiz,Software Developer,"Git, React, Django, Flask",2,"Software Developer with solid background in Git, React, Django, Flask and extensive experience in Cloud Computing.",Cloud Computing
+18,Joy Taylor,Software Developer,"Flask, Python, Django, C++",2,"Dedicated professional with strong expertise in Flask, Python, Django, C++ and a passion for NLP.",NLP
+19,Courtney Mata,Software Developer,"Java, SQL, Flask, C++",2,"Software Developer specialized in NLP, with a focus on creating impactful solutions.",NLP
+20,Lisa Norman,Software Developer,"Java, Python, Django, SQL",2,"Dedicated professional with strong expertise in Java, Python, Django, SQL and a passion for Web Development.",Web Development
+21,Mark Avila,Software Developer,"Python, Flask, C++, React",2,"Highly skilled Software Developer committed to excellence in Python, Flask, C++, React.",Web Development
+22,Christopher Cole,Software Developer,"React, Git, Flask, Django",2,Innovative Software Developer focused on pushing the boundaries in Machine Learning.,Machine Learning
+23,Benjamin Warren,Software Developer,"SQL, Node.js, Flask, Git",2,"Goal-oriented Software Developer with expertise in SQL, Node.js, Flask, Git.",Embedded Systems
+24,Nicholas Mckinney,Software Developer,"Node.js, SQL, Django, JavaScript",2,Innovative Software Developer focused on pushing the boundaries in Cloud Computing.,Cloud Computing
+25,Mark Santana,Software Developer,"SQL, JavaScript, Django, React",2,"Goal-oriented Software Developer with expertise in SQL, JavaScript, Django, React.",Web Development
+26,Michele Franklin,Software Developer,"C++, React, Node.js, SQL",2,"Goal-oriented Software Developer with expertise in C++, React, Node.js, SQL.",NLP
+27,Kenneth Garcia,Software Developer,"Django, Node.js, React, Flask",2,Innovative Software Developer focused on pushing the boundaries in Cloud Computing.,Cloud Computing
+28,Drew Carney,Software Developer,"Django, C++, Python, Node.js",2,"Software Developer specialized in Web Development, with a focus on creating impactful solutions.",Web Development
+29,Brandy Bray,Software Developer,"Java, Django, Node.js, Python",2,"Software Developer with solid background in Java, Django, Node.js, Python and extensive experience in Web Development.",Web Development
+30,Jessica Charles,Software Developer,"C++, React, Node.js, JavaScript",2,Innovative Software Developer focused on pushing the boundaries in Machine Learning.,Machine Learning
+31,Travis Flores,Software Developer,"Django, C++, Node.js, React, JavaScript",5,An enthusiastic Software Developer passionate about learning and growing in the tech industry.,Embedded Systems
+32,Michael Fisher,Software Developer,"SQL, Node.js, JavaScript, Java, React",5,"Dedicated professional with strong expertise in SQL, Node.js, JavaScript, Java, React and a passion for Embedded Systems.",Embedded Systems
+33,William Fuller,Software Developer,"JavaScript, Git, Java, Django, Node.js",5,An enthusiastic Software Developer passionate about learning and growing in the tech industry.,Embedded Systems
+34,Rachel Banks,Software Developer,"Django, JavaScript, SQL, Java, Git",5,An enthusiastic Software Developer passionate about learning and growing in the tech industry.,Cloud Computing
+35,Steve Williams,Software Developer,"Node.js, React, C++, Python, Java",5,Innovative Software Developer focused on pushing the boundaries in Machine Learning.,Machine Learning
+36,Courtney Pace,Software Developer,"Java, SQL, Flask, Django, React",5,An enthusiastic Software Developer passionate about learning and growing in the tech industry.,NLP
+37,Ryan Murillo,Software Developer,"JavaScript, Git, Java, SQL, Python",5,"Goal-oriented Software Developer with expertise in JavaScript, Git, Java, SQL, Python.",NLP
+38,Mary Cain,Software Developer,"Python, Git, Node.js, React, SQL",5,"Goal-oriented Software Developer with expertise in Python, Git, Node.js, React, SQL.",NLP
+39,Andrea Duffy,Software Developer,"Django, Python, SQL, React, C++",5,"Goal-oriented Software Developer with expertise in Django, Python, SQL, React, C++.",Web Development
+40,Melissa Rodriguez,Software Developer,"Java, React, Django, Node.js, JavaScript",5,"Software Developer specialized in Machine Learning, with a focus on creating impactful solutions.",Machine Learning
+41,Sarah Russell,Software Developer,"Java, Python, React, Git, Django",5,Experienced Software Developer with a proven track record in delivering high-quality solutions.,NLP
+42,Mary Velazquez,Software Developer,"Java, React, Python, Django, C++",5,"Goal-oriented Software Developer with expertise in Java, React, Python, Django, C++.",NLP
+43,Scott Kim,Software Developer,"Django, Git, Python, Node.js, C++",5,A self-motivated Software Developer who enjoys problem-solving and innovation.,Web Development
+44,Kimberly Mann,Software Developer,"C++, Python, React, Flask, Git",5,A self-motivated Software Developer who enjoys problem-solving and innovation.,NLP
+45,Daniel Lopez,Software Developer,"Django, React, Flask, Git, SQL",5,"Software Developer with solid background in Django, React, Flask, Git, SQL and extensive experience in Embedded Systems.",Embedded Systems
+46,Hannah Nunez,Software Developer,"C++, Node.js, Flask, Django, Git, Java, JavaScript",10,An enthusiastic Software Developer passionate about learning and growing in the tech industry.,NLP
+47,Megan Richards,Software Developer,"React, JavaScript, SQL, Python, Git, Django, Java",10,Innovative Software Developer focused on pushing the boundaries in Web Development.,Web Development
+48,Jason Dalton,Software Developer,"C++, Django, Python, Java, React, Git, SQL",10,"Creative Software Developer who leverages C++, Django, Python, Java, React, Git, SQL to produce effective results.",NLP
+49,Katie Anderson,Software Developer,"JavaScript, React, Django, Flask, Node.js, C++, Git",10,An enthusiastic Software Developer passionate about learning and growing in the tech industry.,Embedded Systems
+50,Jacob Murray,Software Developer,"Python, React, JavaScript, Git, Java, Django, Node.js",10,"Software Developer specialized in Cloud Computing, with a focus on creating impactful solutions.",Cloud Computing
+51,Kristen Hunt,Software Developer,"Node.js, Python, C++, Java, Git, Django, SQL",10,"Dedicated professional with strong expertise in Node.js, Python, C++, Java, Git, Django, SQL and a passion for Web Development.",Web Development
+52,Christopher Pacheco,Software Developer,"SQL, Django, React, Python, JavaScript, Git, Flask",10,"Software Developer with solid background in SQL, Django, React, Python, JavaScript, Git, Flask and extensive experience in NLP.",NLP
+53,Scott Bell,Software Developer,"React, Node.js, Flask, SQL, Python, Java, Django",10,"Goal-oriented Software Developer with expertise in React, Node.js, Flask, SQL, Python, Java, Django.",Machine Learning
+54,Alex Green,Software Developer,"React, SQL, Java, JavaScript, C++, Node.js, Flask",10,"Dedicated professional with strong expertise in React, SQL, Java, JavaScript, C++, Node.js, Flask and a passion for Machine Learning.",Machine Learning
+55,Leslie Mitchell,Software Developer,"SQL, C++, Java, Python, Git, Node.js, Flask",10,"Creative Software Developer who leverages SQL, C++, Java, Python, Git, Node.js, Flask to produce effective results.",Machine Learning
+56,Maureen Wilson,Software Developer,"Python, Django, Java, C++, SQL, Node.js, JavaScript",10,"Goal-oriented Software Developer with expertise in Python, Django, Java, C++, SQL, Node.js, JavaScript.",Web Development
+57,Travis Ryan,Software Developer,"Java, Python, SQL, Django, Node.js, C++, React",10,"Highly skilled Software Developer committed to excellence in Java, Python, SQL, Django, Node.js, C++, React.",Web Development
+58,Patricia Allen,Software Developer,"Django, SQL, Java, JavaScript, Git, Python, Flask",10,A self-motivated Software Developer who enjoys problem-solving and innovation.,Machine Learning
+59,Charles Pham,Software Developer,"Java, Node.js, SQL, Git, Django, React, Python",10,"Creative Software Developer who leverages Java, Node.js, SQL, Git, Django, React, Python to produce effective results.",NLP
+60,Guy Cohen,Software Developer,"Python, Django, Node.js, JavaScript, SQL, Git, Java",10,"Creative Software Developer who leverages Python, Django, Node.js, JavaScript, SQL, Git, Java to produce effective results.",Cloud Computing
+61,Jose Rodriguez,Software Developer,"Flask, Java, JavaScript, Node.js, React, C++, SQL, Django",14,Innovative Software Developer focused on pushing the boundaries in Machine Learning.,Machine Learning
+62,Margaret Kirk,Software Developer,"React, Python, Flask, Java, Django, Node.js, SQL, C++",14,An enthusiastic Software Developer passionate about learning and growing in the tech industry.,Web Development
+63,Patrick Davis,Software Developer,"C++, Python, Flask, JavaScript, React, Git, Java, Django",14,Experienced Software Developer with a proven track record in delivering high-quality solutions.,NLP
+64,Nancy Garcia,Software Developer,"JavaScript, C++, SQL, Node.js, Django, Flask, Git, Java",14,Experienced Software Developer with a proven track record in delivering high-quality solutions.,Web Development
+65,Erin Campbell,Software Developer,"Python, SQL, C++, Git, Node.js, React, Java, Flask",14,"Goal-oriented Software Developer with expertise in Python, SQL, C++, Git, Node.js, React, Java, Flask.",Web Development
+66,Jeremy Rich,Software Developer,"C++, React, Python, Flask, JavaScript, SQL, Node.js, Django",14,"Dedicated professional with strong expertise in C++, React, Python, Flask, JavaScript, SQL, Node.js, Django and a passion for Cloud Computing.",Cloud Computing
+67,Linda Carter,Software Developer,"React, JavaScript, C++, Django, Java, Python, SQL, Flask",14,"Software Developer specialized in NLP, with a focus on creating impactful solutions.",NLP
+68,Diana Davenport,Software Developer,"Python, C++, Django, Flask, React, JavaScript, Git, Java",14,An enthusiastic Software Developer passionate about learning and growing in the tech industry.,NLP
+69,Joseph Williams,Software Developer,"React, Python, SQL, Git, JavaScript, Flask, Django, C++",14,Innovative Software Developer focused on pushing the boundaries in Embedded Systems.,Embedded Systems
+70,Timothy Villanueva,Software Developer,"React, Node.js, Django, Git, Python, C++, JavaScript, Java",14,"Software Developer with solid background in React, Node.js, Django, Git, Python, C++, JavaScript, Java and extensive experience in Cloud Computing.",Cloud Computing
+71,Ann Wagner,Software Developer,"Node.js, React, Python, Java, SQL, JavaScript, C++, Git",14,Experienced Software Developer with a proven track record in delivering high-quality solutions.,Embedded Systems
+72,Lori Watson,Software Developer,"Node.js, Git, Django, Python, JavaScript, SQL, Flask, Java",14,"Software Developer with solid background in Node.js, Git, Django, Python, JavaScript, SQL, Flask, Java and extensive experience in Embedded Systems.",Embedded Systems
+73,Michelle Moreno,Software Developer,"JavaScript, C++, Django, React, SQL, Git, Python, Node.js",14,Experienced Software Developer with a proven track record in delivering high-quality solutions.,Machine Learning
+74,Christopher Pennington,Software Developer,"Django, Flask, Git, Python, SQL, JavaScript, React, Java",14,Experienced Software Developer with a proven track record in delivering high-quality solutions.,Cloud Computing
+75,Edward Scott,Software Developer,"Django, Node.js, Flask, Java, JavaScript, React, SQL, C++",14,"Highly skilled Software Developer committed to excellence in Django, Node.js, Flask, Java, JavaScript, React, SQL, C++.",Machine Learning

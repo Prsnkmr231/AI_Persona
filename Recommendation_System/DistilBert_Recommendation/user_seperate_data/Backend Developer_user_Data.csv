@@ -1,0 +1,76 @@
+user_id,user_name,role,skills,years_of_experience,bio,area_of_interest
+76,Andrew Hendricks,Backend Developer,"Django, Java, PHP",0,"Highly skilled Backend Developer committed to excellence in Django, Java, PHP.",NLP
+77,Howard Arnold,Backend Developer,"Node.js, Python, Django",0,"Dedicated professional with strong expertise in Node.js, Python, Django and a passion for Machine Learning.",Machine Learning
+78,Donna Hughes,Backend Developer,"Node.js, Java, PHP",0,"Goal-oriented Backend Developer with expertise in Node.js, Java, PHP.",NLP
+79,Dana Palmer,Backend Developer,"Node.js, Django, Java",0,"Backend Developer specialized in Cloud Computing, with a focus on creating impactful solutions.",Cloud Computing
+80,Chloe Goodwin,Backend Developer,"RESTful APIs, MongoDB, Flask",0,"Backend Developer with solid background in RESTful APIs, MongoDB, Flask and extensive experience in Machine Learning.",Machine Learning
+81,Sara Young,Backend Developer,"Ruby, RESTful APIs, SQL",0,"Goal-oriented Backend Developer with expertise in Ruby, RESTful APIs, SQL.",Cloud Computing
+82,Oscar Curry Jr.,Backend Developer,"RESTful APIs, MongoDB, Django",0,"Highly skilled Backend Developer committed to excellence in RESTful APIs, MongoDB, Django.",NLP
+83,Cassandra Allen,Backend Developer,"Python, RESTful APIs, SQL",0,An enthusiastic Backend Developer passionate about learning and growing in the tech industry.,Web Development
+84,Richard Alexander,Backend Developer,"Django, Ruby, Flask",0,"Dedicated professional with strong expertise in Django, Ruby, Flask and a passion for NLP.",NLP
+85,James Moore,Backend Developer,"Java, Flask, SQL",0,"Goal-oriented Backend Developer with expertise in Java, Flask, SQL.",Machine Learning
+86,Frank Davis,Backend Developer,"Django, PHP, SQL",0,"Highly skilled Backend Developer committed to excellence in Django, PHP, SQL.",Machine Learning
+87,John Smith,Backend Developer,"RESTful APIs, Ruby, Flask",0,"Dedicated professional with strong expertise in RESTful APIs, Ruby, Flask and a passion for Web Development.",Web Development
+88,Patrick Hamilton,Backend Developer,"PHP, Django, Java",0,A self-motivated Backend Developer who enjoys problem-solving and innovation.,Embedded Systems
+89,Katherine Mason,Backend Developer,"Flask, Python, MongoDB",0,"Goal-oriented Backend Developer with expertise in Flask, Python, MongoDB.",Cloud Computing
+90,Shannon Allen,Backend Developer,"RESTful APIs, Django, Node.js",0,"Highly skilled Backend Developer committed to excellence in RESTful APIs, Django, Node.js.",Machine Learning
+91,Holly Schroeder,Backend Developer,"Django, Flask, SQL, MongoDB",2,An enthusiastic Backend Developer passionate about learning and growing in the tech industry.,Web Development
+92,Whitney Roberts,Backend Developer,"Ruby, Python, SQL, Flask",2,An enthusiastic Backend Developer passionate about learning and growing in the tech industry.,Machine Learning
+93,Joseph Villanueva,Backend Developer,"Java, SQL, Node.js, Flask",2,"Dedicated professional with strong expertise in Java, SQL, Node.js, Flask and a passion for Machine Learning.",Machine Learning
+94,Jessica Morrow,Backend Developer,"PHP, Django, SQL, Python",2,"Backend Developer with solid background in PHP, Django, SQL, Python and extensive experience in Cloud Computing.",Cloud Computing
+95,Jennifer Jones,Backend Developer,"SQL, MongoDB, PHP, Node.js",2,"Dedicated professional with strong expertise in SQL, MongoDB, PHP, Node.js and a passion for Embedded Systems.",Embedded Systems
+96,Anna Anderson,Backend Developer,"Node.js, SQL, Java, Django",2,Experienced Backend Developer with a proven track record in delivering high-quality solutions.,Web Development
+97,Kevin Ibarra DDS,Backend Developer,"PHP, Node.js, Ruby, RESTful APIs",2,"Creative Backend Developer who leverages PHP, Node.js, Ruby, RESTful APIs to produce effective results.",Machine Learning
+98,Brian Rojas,Backend Developer,"PHP, Flask, MongoDB, Node.js",2,"Dedicated professional with strong expertise in PHP, Flask, MongoDB, Node.js and a passion for Machine Learning.",Machine Learning
+99,Jasmine Gutierrez,Backend Developer,"SQL, Django, Python, PHP",2,"Backend Developer specialized in NLP, with a focus on creating impactful solutions.",NLP
+100,David Boyd,Backend Developer,"Node.js, Python, SQL, RESTful APIs",2,"Highly skilled Backend Developer committed to excellence in Node.js, Python, SQL, RESTful APIs.",Web Development
+101,Joshua Arnold,Backend Developer,"MongoDB, Flask, PHP, Ruby",2,"Backend Developer with solid background in MongoDB, Flask, PHP, Ruby and extensive experience in Machine Learning.",Machine Learning
+102,Kevin Rodriguez,Backend Developer,"Django, MongoDB, RESTful APIs, PHP",2,Innovative Backend Developer focused on pushing the boundaries in NLP.,NLP
+103,Bryan Pennington,Backend Developer,"SQL, PHP, Node.js, Django",2,Experienced Backend Developer with a proven track record in delivering high-quality solutions.,NLP
+104,Erica Zavala,Backend Developer,"Python, MongoDB, Django, Flask",2,"Highly skilled Backend Developer committed to excellence in Python, MongoDB, Django, Flask.",Embedded Systems
+105,Tara Campbell,Backend Developer,"Ruby, SQL, Python, Django",2,A self-motivated Backend Developer who enjoys problem-solving and innovation.,Cloud Computing
+106,William Lee,Backend Developer,"Node.js, Java, PHP, SQL, Flask",5,"Dedicated professional with strong expertise in Node.js, Java, PHP, SQL, Flask and a passion for Machine Learning.",Machine Learning
+107,Corey Shepherd,Backend Developer,"Python, PHP, Node.js, SQL, Flask",5,"Highly skilled Backend Developer committed to excellence in Python, PHP, Node.js, SQL, Flask.",NLP
+108,Samuel Johnson,Backend Developer,"RESTful APIs, Python, MongoDB, SQL, Java",5,An enthusiastic Backend Developer passionate about learning and growing in the tech industry.,Web Development
+109,Sandra Duncan,Backend Developer,"Node.js, MongoDB, Django, Java, Flask",5,Innovative Backend Developer focused on pushing the boundaries in Cloud Computing.,Cloud Computing
+110,Jason Lewis,Backend Developer,"Java, RESTful APIs, Flask, PHP, Python",5,Innovative Backend Developer focused on pushing the boundaries in Machine Learning.,Machine Learning
+111,William Scott,Backend Developer,"Flask, MongoDB, Django, RESTful APIs, Java",5,Experienced Backend Developer with a proven track record in delivering high-quality solutions.,Web Development
+112,Rebecca Thompson,Backend Developer,"Django, PHP, SQL, MongoDB, Ruby",5,Innovative Backend Developer focused on pushing the boundaries in NLP.,NLP
+113,Derek Baker,Backend Developer,"PHP, Python, Node.js, Java, Ruby",5,Experienced Backend Developer with a proven track record in delivering high-quality solutions.,Cloud Computing
+114,Sheri Lutz,Backend Developer,"MongoDB, SQL, Python, Ruby, Java",5,A self-motivated Backend Developer who enjoys problem-solving and innovation.,NLP
+115,Jared Rice,Backend Developer,"RESTful APIs, Django, Node.js, Flask, Ruby",5,"Backend Developer specialized in NLP, with a focus on creating impactful solutions.",NLP
+116,Michael Cruz,Backend Developer,"SQL, RESTful APIs, Flask, PHP, MongoDB",5,"Dedicated professional with strong expertise in SQL, RESTful APIs, Flask, PHP, MongoDB and a passion for NLP.",NLP
+117,Kenneth Logan,Backend Developer,"Flask, PHP, MongoDB, SQL, RESTful APIs",5,A self-motivated Backend Developer who enjoys problem-solving and innovation.,Web Development
+118,Amy Vasquez,Backend Developer,"Node.js, Django, RESTful APIs, PHP, MongoDB",5,"Goal-oriented Backend Developer with expertise in Node.js, Django, RESTful APIs, PHP, MongoDB.",NLP
+119,Amy Mckay,Backend Developer,"PHP, Python, MongoDB, Java, RESTful APIs",5,A self-motivated Backend Developer who enjoys problem-solving and innovation.,Embedded Systems
+120,Dr. Megan Tyler,Backend Developer,"Java, MongoDB, SQL, Django, Flask",5,"Backend Developer specialized in Machine Learning, with a focus on creating impactful solutions.",Machine Learning
+121,Rachel Moreno,Backend Developer,"RESTful APIs, Python, Node.js, PHP, Ruby, MongoDB, Java",10,"Dedicated professional with strong expertise in RESTful APIs, Python, Node.js, PHP, Ruby, MongoDB, Java and a passion for Cloud Computing.",Cloud Computing
+122,Kimberly Mccoy,Backend Developer,"Java, Python, Ruby, RESTful APIs, PHP, Flask, SQL",10,"Backend Developer with solid background in Java, Python, Ruby, RESTful APIs, PHP, Flask, SQL and extensive experience in Web Development.",Web Development
+123,Megan Stewart,Backend Developer,"MongoDB, Django, RESTful APIs, SQL, Java, PHP, Node.js",10,"Creative Backend Developer who leverages MongoDB, Django, RESTful APIs, SQL, Java, PHP, Node.js to produce effective results.",Machine Learning
+124,Andrea Rodriguez,Backend Developer,"Flask, Python, RESTful APIs, Django, PHP, SQL, Node.js",10,An enthusiastic Backend Developer passionate about learning and growing in the tech industry.,Machine Learning
+125,Michelle Garcia,Backend Developer,"PHP, Django, RESTful APIs, Flask, Java, MongoDB, Node.js",10,"Highly skilled Backend Developer committed to excellence in PHP, Django, RESTful APIs, Flask, Java, MongoDB, Node.js.",Cloud Computing
+126,Tracy Ramirez,Backend Developer,"Flask, PHP, MongoDB, Java, Node.js, Ruby, Django",10,An enthusiastic Backend Developer passionate about learning and growing in the tech industry.,Embedded Systems
+127,Robin Rogers,Backend Developer,"Java, MongoDB, RESTful APIs, Django, PHP, SQL, Ruby",10,Innovative Backend Developer focused on pushing the boundaries in Cloud Computing.,Cloud Computing
+128,Rebecca Bradshaw,Backend Developer,"SQL, RESTful APIs, Python, Ruby, Flask, Java, Node.js",10,"Backend Developer with solid background in SQL, RESTful APIs, Python, Ruby, Flask, Java, Node.js and extensive experience in Web Development.",Web Development
+129,James Padilla,Backend Developer,"PHP, Flask, RESTful APIs, MongoDB, Java, Python, Node.js",10,"Backend Developer specialized in Embedded Systems, with a focus on creating impactful solutions.",Embedded Systems
+130,Jessica Fox,Backend Developer,"Django, Python, Java, SQL, RESTful APIs, Ruby, PHP",10,"Highly skilled Backend Developer committed to excellence in Django, Python, Java, SQL, RESTful APIs, Ruby, PHP.",Web Development
+131,Chris Berg,Backend Developer,"Java, PHP, Ruby, SQL, MongoDB, RESTful APIs, Flask",10,"Dedicated professional with strong expertise in Java, PHP, Ruby, SQL, MongoDB, RESTful APIs, Flask and a passion for NLP.",NLP
+132,Jacob Ramos,Backend Developer,"Node.js, Java, SQL, RESTful APIs, PHP, Ruby, Python",10,"Goal-oriented Backend Developer with expertise in Node.js, Java, SQL, RESTful APIs, PHP, Ruby, Python.",Machine Learning
+133,Cody Atkins,Backend Developer,"PHP, SQL, Java, MongoDB, Django, RESTful APIs, Ruby",10,"Highly skilled Backend Developer committed to excellence in PHP, SQL, Java, MongoDB, Django, RESTful APIs, Ruby.",Cloud Computing
+134,April Rivera,Backend Developer,"MongoDB, Python, PHP, Flask, Ruby, RESTful APIs, Django",10,"Backend Developer with solid background in MongoDB, Python, PHP, Flask, Ruby, RESTful APIs, Django and extensive experience in Cloud Computing.",Cloud Computing
+135,Walter Rodriguez,Backend Developer,"Python, Ruby, Java, PHP, SQL, Django, RESTful APIs",10,"Backend Developer with solid background in Python, Ruby, Java, PHP, SQL, Django, RESTful APIs and extensive experience in Web Development.",Web Development
+136,Mrs. Kimberly Hansen,Backend Developer,"SQL, Java, Django, Flask, MongoDB, PHP, Python, RESTful APIs",14,A self-motivated Backend Developer who enjoys problem-solving and innovation.,Cloud Computing
+137,Frances Wilson,Backend Developer,"Node.js, SQL, Java, MongoDB, Python, PHP, RESTful APIs, Django",14,Experienced Backend Developer with a proven track record in delivering high-quality solutions.,NLP
+138,Haley Richards,Backend Developer,"PHP, Java, Node.js, SQL, MongoDB, RESTful APIs, Python, Django",14,"Creative Backend Developer who leverages PHP, Java, Node.js, SQL, MongoDB, RESTful APIs, Python, Django to produce effective results.",NLP
+139,Logan Ferguson,Backend Developer,"PHP, Python, Java, MongoDB, RESTful APIs, Ruby, Django, SQL",14,"Creative Backend Developer who leverages PHP, Python, Java, MongoDB, RESTful APIs, Ruby, Django, SQL to produce effective results.",Machine Learning
+140,Julia Oneal,Backend Developer,"SQL, PHP, Ruby, Django, RESTful APIs, Python, Flask, MongoDB",14,A self-motivated Backend Developer who enjoys problem-solving and innovation.,Embedded Systems
+141,Sandra Mahoney,Backend Developer,"Java, RESTful APIs, SQL, Django, Node.js, Ruby, Flask, Python",14,Innovative Backend Developer focused on pushing the boundaries in NLP.,NLP
+142,Anne Duffy,Backend Developer,"PHP, Flask, Java, SQL, MongoDB, Django, Node.js, Ruby",14,"Dedicated professional with strong expertise in PHP, Flask, Java, SQL, MongoDB, Django, Node.js, Ruby and a passion for Cloud Computing.",Cloud Computing
+143,Christian Little,Backend Developer,"SQL, Python, PHP, Node.js, Java, Flask, RESTful APIs, MongoDB",14,A self-motivated Backend Developer who enjoys problem-solving and innovation.,NLP
+144,Kimberly Harmon,Backend Developer,"RESTful APIs, SQL, MongoDB, PHP, Node.js, Flask, Java, Python",14,A self-motivated Backend Developer who enjoys problem-solving and innovation.,Cloud Computing
+145,Eddie Clark,Backend Developer,"Java, PHP, SQL, Flask, MongoDB, Django, Node.js, Ruby",14,Experienced Backend Developer with a proven track record in delivering high-quality solutions.,Cloud Computing
+146,Samuel Williams DDS,Backend Developer,"SQL, Java, PHP, Ruby, MongoDB, Flask, Node.js, RESTful APIs",14,"Highly skilled Backend Developer committed to excellence in SQL, Java, PHP, Ruby, MongoDB, Flask, Node.js, RESTful APIs.",Cloud Computing
+147,Justin Carr,Backend Developer,"Ruby, Java, Python, SQL, MongoDB, Node.js, RESTful APIs, PHP",14,"Creative Backend Developer who leverages Ruby, Java, Python, SQL, MongoDB, Node.js, RESTful APIs, PHP to produce effective results.",Machine Learning
+148,Craig Valencia,Backend Developer,"Django, RESTful APIs, Node.js, Flask, Python, Ruby, SQL, MongoDB",14,"Backend Developer specialized in NLP, with a focus on creating impactful solutions.",NLP
+149,Traci Patrick,Backend Developer,"Flask, RESTful APIs, MongoDB, Java, PHP, Python, SQL, Django",14,A self-motivated Backend Developer who enjoys problem-solving and innovation.,NLP
+150,Thomas Lucero,Backend Developer,"PHP, Python, MongoDB, Ruby, Java, RESTful APIs, Django, SQL",14,"Creative Backend Developer who leverages PHP, Python, MongoDB, Ruby, Java, RESTful APIs, Django, SQL to produce effective results.",Machine Learning

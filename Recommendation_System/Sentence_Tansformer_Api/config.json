@@ -1,0 +1,6 @@
+{
+    "jobs": true,
+    "courses": true,
+    "data_folder_path": "data",
+    "model_name": "all-MiniLM-L6-v2"
+}

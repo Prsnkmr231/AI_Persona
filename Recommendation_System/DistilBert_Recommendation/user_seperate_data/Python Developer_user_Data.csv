@@ -1,0 +1,76 @@
+user_id,user_name,role,skills,years_of_experience,bio,area_of_interest
+451,Peter Crane,Python Developer,"REST APIs, Flask, Machine Learning",0,Innovative Python Developer focused on pushing the boundaries in NLP.,NLP
+452,Gary Alexander,Python Developer,"REST APIs, Data Analysis, NumPy",0,"Dedicated professional with strong expertise in REST APIs, Data Analysis, NumPy and a passion for NLP.",NLP
+453,Katherine Hall,Python Developer,"Pandas, Flask, Python",0,"Python Developer specialized in Cloud Computing, with a focus on creating impactful solutions.",Cloud Computing
+454,Crystal Wood,Python Developer,"Git, Machine Learning, Flask",0,Innovative Python Developer focused on pushing the boundaries in Machine Learning.,Machine Learning
+455,Jeremiah Knight,Python Developer,"Machine Learning, Flask, SQL",0,Experienced Python Developer with a proven track record in delivering high-quality solutions.,NLP
+456,Kathy Wyatt MD,Python Developer,"NumPy, Python, Pandas",0,Innovative Python Developer focused on pushing the boundaries in Machine Learning.,Machine Learning
+457,Cindy Black,Python Developer,"SQL, Pandas, Python",0,"Highly skilled Python Developer committed to excellence in SQL, Pandas, Python.",Machine Learning
+458,Sharon Wilkinson,Python Developer,"Git, REST APIs, SQL",0,Innovative Python Developer focused on pushing the boundaries in Embedded Systems.,Embedded Systems
+459,Yvonne Hunt,Python Developer,"Flask, Python, SQL",0,"Python Developer specialized in Web Development, with a focus on creating impactful solutions.",Web Development
+460,Casey Garcia,Python Developer,"REST APIs, Git, Django",0,A self-motivated Python Developer who enjoys problem-solving and innovation.,Web Development
+461,Andrew Coleman,Python Developer,"NumPy, SQL, Pandas",0,A self-motivated Python Developer who enjoys problem-solving and innovation.,NLP
+462,Chelsea Dennis,Python Developer,"Machine Learning, Data Analysis, Git",0,"Python Developer specialized in Embedded Systems, with a focus on creating impactful solutions.",Embedded Systems
+463,Stefanie Smith,Python Developer,"Python, NumPy, REST APIs",0,A self-motivated Python Developer who enjoys problem-solving and innovation.,Machine Learning
+464,Joseph Martinez,Python Developer,"Django, Machine Learning, Git",0,"Goal-oriented Python Developer with expertise in Django, Machine Learning, Git.",Machine Learning
+465,Kimberly Woodward,Python Developer,"NumPy, Data Analysis, Django",0,"Goal-oriented Python Developer with expertise in NumPy, Data Analysis, Django.",Cloud Computing
+466,Jerry Ray,Python Developer,"Flask, Django, Pandas, REST APIs",2,"Creative Python Developer who leverages Flask, Django, Pandas, REST APIs to produce effective results.",NLP
+467,Alexander Burton,Python Developer,"Django, Git, SQL, Data Analysis",2,Experienced Python Developer with a proven track record in delivering high-quality solutions.,Machine Learning
+468,Karen Patel,Python Developer,"Flask, Data Analysis, Machine Learning, SQL",2,"Python Developer specialized in NLP, with a focus on creating impactful solutions.",NLP
+469,Dawn Hendrix,Python Developer,"NumPy, Machine Learning, Data Analysis, Pandas",2,A self-motivated Python Developer who enjoys problem-solving and innovation.,NLP
+470,Julia Montgomery,Python Developer,"Pandas, Flask, NumPy, Data Analysis",2,"Highly skilled Python Developer committed to excellence in Pandas, Flask, NumPy, Data Analysis.",Embedded Systems
+471,Brent Jordan,Python Developer,"Python, Data Analysis, SQL, Machine Learning",2,"Highly skilled Python Developer committed to excellence in Python, Data Analysis, SQL, Machine Learning.",Machine Learning
+472,Nancy Bush,Python Developer,"REST APIs, Data Analysis, Django, Pandas",2,"Highly skilled Python Developer committed to excellence in REST APIs, Data Analysis, Django, Pandas.",Embedded Systems
+473,Monica Lee,Python Developer,"REST APIs, Python, Django, SQL",2,"Highly skilled Python Developer committed to excellence in REST APIs, Python, Django, SQL.",Cloud Computing
+474,Justin Burke,Python Developer,"Flask, REST APIs, Git, Data Analysis",2,A self-motivated Python Developer who enjoys problem-solving and innovation.,NLP
+475,Aaron Garcia,Python Developer,"Pandas, Data Analysis, Machine Learning, NumPy",2,Experienced Python Developer with a proven track record in delivering high-quality solutions.,Cloud Computing
+476,Brian Kelly,Python Developer,"NumPy, Django, Data Analysis, SQL",2,"Creative Python Developer who leverages NumPy, Django, Data Analysis, SQL to produce effective results.",Machine Learning
+477,Thomas Burgess,Python Developer,"REST APIs, Django, Flask, Python",2,"Python Developer with solid background in REST APIs, Django, Flask, Python and extensive experience in Embedded Systems.",Embedded Systems
+478,Jaime Mcdowell,Python Developer,"SQL, Pandas, Git, Flask",2,"Python Developer specialized in Web Development, with a focus on creating impactful solutions.",Web Development
+479,Crystal Dean,Python Developer,"REST APIs, Flask, Python, NumPy",2,"Highly skilled Python Developer committed to excellence in REST APIs, Flask, Python, NumPy.",Machine Learning
+480,Nicholas Drake,Python Developer,"Pandas, Machine Learning, REST APIs, Python",2,An enthusiastic Python Developer passionate about learning and growing in the tech industry.,Cloud Computing
+481,Steven Lynch,Python Developer,"Django, Pandas, REST APIs, Data Analysis, Machine Learning",5,"Goal-oriented Python Developer with expertise in Django, Pandas, REST APIs, Data Analysis, Machine Learning.",Cloud Computing
+482,Craig Paul,Python Developer,"REST APIs, Machine Learning, Django, Python, Git",5,"Creative Python Developer who leverages REST APIs, Machine Learning, Django, Python, Git to produce effective results.",Web Development
+483,Tanya Evans,Python Developer,"Data Analysis, Flask, Machine Learning, SQL, Git",5,Innovative Python Developer focused on pushing the boundaries in Embedded Systems.,Embedded Systems
+484,Miss Janet Webb,Python Developer,"Python, Pandas, Machine Learning, REST APIs, SQL",5,"Goal-oriented Python Developer with expertise in Python, Pandas, Machine Learning, REST APIs, SQL.",Cloud Computing
+485,Allison Lopez,Python Developer,"Flask, NumPy, Git, Pandas, REST APIs",5,"Python Developer specialized in Machine Learning, with a focus on creating impactful solutions.",Machine Learning
+486,Leon Kennedy,Python Developer,"Git, Machine Learning, Pandas, Python, Flask",5,"Creative Python Developer who leverages Git, Machine Learning, Pandas, Python, Flask to produce effective results.",Embedded Systems
+487,Hannah Peterson,Python Developer,"Python, Git, Flask, NumPy, Django",5,Innovative Python Developer focused on pushing the boundaries in Cloud Computing.,Cloud Computing
+488,Lance James,Python Developer,"Data Analysis, Git, Flask, SQL, REST APIs",5,Experienced Python Developer with a proven track record in delivering high-quality solutions.,Web Development
+489,Leonard Gallagher,Python Developer,"NumPy, REST APIs, SQL, Pandas, Django",5,"Creative Python Developer who leverages NumPy, REST APIs, SQL, Pandas, Django to produce effective results.",Embedded Systems
+490,Mike Watson,Python Developer,"Flask, Python, Git, Machine Learning, Pandas",5,"Python Developer specialized in NLP, with a focus on creating impactful solutions.",NLP
+491,Elizabeth Montgomery,Python Developer,"Machine Learning, SQL, Python, Django, REST APIs",5,"Goal-oriented Python Developer with expertise in Machine Learning, SQL, Python, Django, REST APIs.",Cloud Computing
+492,Jesse Cochran,Python Developer,"REST APIs, Data Analysis, NumPy, Django, Git",5,"Highly skilled Python Developer committed to excellence in REST APIs, Data Analysis, NumPy, Django, Git.",Machine Learning
+493,Suzanne Duncan,Python Developer,"NumPy, Python, Git, Machine Learning, SQL",5,"Dedicated professional with strong expertise in NumPy, Python, Git, Machine Learning, SQL and a passion for Embedded Systems.",Embedded Systems
+494,Matthew Daniels,Python Developer,"Python, Data Analysis, Pandas, NumPy, Git",5,A self-motivated Python Developer who enjoys problem-solving and innovation.,Machine Learning
+495,Stephanie Dillon,Python Developer,"NumPy, Git, Python, Pandas, REST APIs",5,"Goal-oriented Python Developer with expertise in NumPy, Git, Python, Pandas, REST APIs.",NLP
+496,Mark Barrett,Python Developer,"Python, Flask, REST APIs, Django, Machine Learning, Pandas, Git",10,"Creative Python Developer who leverages Python, Flask, REST APIs, Django, Machine Learning, Pandas, Git to produce effective results.",NLP
+497,Kyle Tapia,Python Developer,"Flask, Data Analysis, REST APIs, Machine Learning, Pandas, NumPy, Python",10,"Goal-oriented Python Developer with expertise in Flask, Data Analysis, REST APIs, Machine Learning, Pandas, NumPy, Python.",Machine Learning
+498,Amy Lara,Python Developer,"Git, Flask, Data Analysis, NumPy, Python, REST APIs, Pandas",10,A self-motivated Python Developer who enjoys problem-solving and innovation.,Web Development
+499,Victoria Schwartz,Python Developer,"Machine Learning, Python, Pandas, Flask, Django, Git, NumPy",10,A self-motivated Python Developer who enjoys problem-solving and innovation.,NLP
+500,Kenneth Jones,Python Developer,"Python, SQL, Django, Flask, REST APIs, Pandas, Git",10,A self-motivated Python Developer who enjoys problem-solving and innovation.,Embedded Systems
+501,Mrs. Kimberly Hammond,Python Developer,"Machine Learning, REST APIs, Git, Django, SQL, Flask, Python",10,A self-motivated Python Developer who enjoys problem-solving and innovation.,Machine Learning
+502,Justin Casey,Python Developer,"Flask, SQL, REST APIs, Pandas, Machine Learning, Data Analysis, NumPy",10,An enthusiastic Python Developer passionate about learning and growing in the tech industry.,Cloud Computing
+503,Rebecca Smith,Python Developer,"Git, Data Analysis, Python, Flask, Django, SQL, Pandas",10,Innovative Python Developer focused on pushing the boundaries in Web Development.,Web Development
+504,Angela Peterson,Python Developer,"Pandas, Flask, Python, NumPy, SQL, Django, Machine Learning",10,"Python Developer specialized in Cloud Computing, with a focus on creating impactful solutions.",Cloud Computing
+505,Andrea Fisher,Python Developer,"Machine Learning, Flask, Python, REST APIs, SQL, Git, Pandas",10,"Highly skilled Python Developer committed to excellence in Machine Learning, Flask, Python, REST APIs, SQL, Git, Pandas.",Web Development
+506,Kellie Schmidt DDS,Python Developer,"Flask, Machine Learning, REST APIs, Data Analysis, SQL, Pandas, NumPy",10,"Python Developer with solid background in Flask, Machine Learning, REST APIs, Data Analysis, SQL, Pandas, NumPy and extensive experience in Machine Learning.",Machine Learning
+507,Gabriel Pena,Python Developer,"Pandas, Git, Python, Django, Machine Learning, Data Analysis, SQL",10,Experienced Python Developer with a proven track record in delivering high-quality solutions.,Embedded Systems
+508,Brenda Bird,Python Developer,"Django, Machine Learning, Pandas, Git, REST APIs, SQL, Data Analysis",10,A self-motivated Python Developer who enjoys problem-solving and innovation.,Machine Learning
+509,Miss Anna Fisher MD,Python Developer,"Python, Django, Machine Learning, Git, Flask, Data Analysis, SQL",10,An enthusiastic Python Developer passionate about learning and growing in the tech industry.,Web Development
+510,Chad Leach,Python Developer,"Django, Machine Learning, Flask, NumPy, Data Analysis, Python, Git",10,"Creative Python Developer who leverages Django, Machine Learning, Flask, NumPy, Data Analysis, Python, Git to produce effective results.",Cloud Computing
+511,Catherine Carroll,Python Developer,"Data Analysis, Django, Pandas, SQL, REST APIs, Flask, Python, Machine Learning",14,"Dedicated professional with strong expertise in Data Analysis, Django, Pandas, SQL, REST APIs, Flask, Python, Machine Learning and a passion for Cloud Computing.",Cloud Computing
+512,Charles Hall,Python Developer,"Pandas, Data Analysis, Flask, Git, Django, REST APIs, NumPy, Python",14,"Goal-oriented Python Developer with expertise in Pandas, Data Analysis, Flask, Git, Django, REST APIs, NumPy, Python.",Machine Learning
+513,Patricia Rhodes,Python Developer,"Python, Git, NumPy, Django, Data Analysis, REST APIs, Pandas, Flask",14,"Python Developer with solid background in Python, Git, NumPy, Django, Data Analysis, REST APIs, Pandas, Flask and extensive experience in Embedded Systems.",Embedded Systems
+514,Kathy Murphy,Python Developer,"Flask, Git, SQL, Machine Learning, Python, Pandas, REST APIs, NumPy",14,Experienced Python Developer with a proven track record in delivering high-quality solutions.,Machine Learning
+515,Isaiah Frazier,Python Developer,"Python, Flask, NumPy, SQL, REST APIs, Django, Machine Learning, Pandas",14,An enthusiastic Python Developer passionate about learning and growing in the tech industry.,Cloud Computing
+516,Jennifer Shepherd,Python Developer,"SQL, Git, Pandas, Data Analysis, NumPy, Python, REST APIs, Django",14,"Highly skilled Python Developer committed to excellence in SQL, Git, Pandas, Data Analysis, NumPy, Python, REST APIs, Django.",Machine Learning
+517,Scott Huffman,Python Developer,"Python, Git, Django, Flask, Machine Learning, Data Analysis, SQL, Pandas",14,A self-motivated Python Developer who enjoys problem-solving and innovation.,Embedded Systems
+518,Brenda Harris,Python Developer,"SQL, Django, NumPy, REST APIs, Data Analysis, Flask, Python, Git",14,"Python Developer with solid background in SQL, Django, NumPy, REST APIs, Data Analysis, Flask, Python, Git and extensive experience in Web Development.",Web Development
+519,Timothy Barton,Python Developer,"Pandas, Data Analysis, NumPy, SQL, Git, REST APIs, Python, Flask",14,Innovative Python Developer focused on pushing the boundaries in Machine Learning.,Machine Learning
+520,Alexander Hudson,Python Developer,"REST APIs, Pandas, NumPy, SQL, Git, Django, Data Analysis, Flask",14,An enthusiastic Python Developer passionate about learning and growing in the tech industry.,Cloud Computing
+521,Maurice Whitehead,Python Developer,"Python, Django, SQL, NumPy, Git, Data Analysis, Machine Learning, Pandas",14,"Creative Python Developer who leverages Python, Django, SQL, NumPy, Git, Data Analysis, Machine Learning, Pandas to produce effective results.",Machine Learning
+522,Megan Leach,Python Developer,"Python, REST APIs, Flask, Git, Data Analysis, Django, Machine Learning, SQL",14,An enthusiastic Python Developer passionate about learning and growing in the tech industry.,Machine Learning
+523,Jonathan Gilmore,Python Developer,"Machine Learning, Django, Git, Data Analysis, REST APIs, Pandas, Flask, NumPy",14,Innovative Python Developer focused on pushing the boundaries in Cloud Computing.,Cloud Computing
+524,Savannah Lopez,Python Developer,"Git, Python, NumPy, Data Analysis, REST APIs, SQL, Flask, Django",14,"Highly skilled Python Developer committed to excellence in Git, Python, NumPy, Data Analysis, REST APIs, SQL, Flask, Django.",Web Development
+525,Jason Miller,Python Developer,"SQL, Machine Learning, REST APIs, Flask, Data Analysis, Pandas, Git, Django",14,Experienced Python Developer with a proven track record in delivering high-quality solutions.,Cloud Computing
