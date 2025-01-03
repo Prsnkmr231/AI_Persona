@@ -49,12 +49,13 @@ recommendation_system_and_api/
 │   ├── main.py
 │   ├── api.py
 │   └── README.md
+
 ```
 
 
-##Folder and File Descriptions
+## Folder and File Descriptions
 
-#distilbert_recommendation/
+# distilbert_recommendation/
 
     This folder contains files related to training and testing a recommendation system based on the DistilBert model.
 
@@ -74,7 +75,7 @@ recommendation_system_and_api/
 
   **negative_labelled_data.csv**: CSV file with negative labelled job data (jobs that do not belong to the user profiles).
 
-#sentence_transformer_api/
+# sentence_transformer_api/
 
   This folder contains files related to the SentenceTransformer-based recommendation system and FastAPI server.
 
