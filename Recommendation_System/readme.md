@@ -52,5 +52,53 @@ recommendation_system_and_api/
 ```
 
 
+Folder and File Descriptions
+distilbert_recommendation/
+
+This folder contains files related to training and testing a recommendation system based on the DistilBert model.
+
+jobs_seperate_data/: Contains CSV files with job data for specific roles such as backend developer, content creator, etc.
+
+user_seperate_data/: Contains CSV files with user profiles for specific roles such as backend developer, content creator, etc.
+
+DistilBert_Testing.py: Python script for testing the DistilBert model checkpoints.
+
+Distilbert_Training.ipynb: Jupyter notebook for training the DistilBert model.
+
+master_jobs_files.csv: CSV file with all jobs related to the roles from the jobs_seperate_data folder.
+
+training_data_generator.py: Python script for generating training data (positive and negative labelled data).
+
+positive_labelled_data.csv: CSV file with positive labelled job data (jobs belonging to the user profiles).
+
+negative_labelled_data.csv: CSV file with negative labelled job data (jobs that do not belong to the user profiles).
+
+sentence_transformer_api/
+
+This folder contains files related to the SentenceTransformer-based recommendation system and FastAPI server.
+
+data/: Contains pre-trained embeddings and CSV files for courses and jobs.
+
+course_embeddings.npy: Numpy array containing embeddings for courses.
+
+Jobs_embeddings.npy: Numpy array containing embeddings for jobs.
+
+master_jobs_file.csv: CSV file with a master list of job listings.
+
+online_courses.csv: CSV file with details of online courses.
+
+src/: Core scripts for recommendation logic.
+
+courses_recommender.py: Script for recommending courses based on user input.
+
+jobs_recommender.py: Script for recommending jobs based on user input.
+
+utils.py: Utility functions used by the recommender scripts.
+
+config.json: Configuration file for setting up the API and paths.
+
+main.py: Entry point for running the FastAPI server.
+
+api.py: Defines the API endpoints for the recommendation system.
 
 
