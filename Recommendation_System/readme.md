@@ -52,26 +52,27 @@ recommendation_system_and_api/
 ```
 
 
-Folder and File Descriptions
-distilbert_recommendation/
+##Folder and File Descriptions
 
-This folder contains files related to training and testing a recommendation system based on the DistilBert model.
+-**distilbert_recommendation/**
 
-jobs_seperate_data/: Contains CSV files with job data for specific roles such as backend developer, content creator, etc.
+   -This folder contains files related to training and testing a recommendation system based on the DistilBert model.
 
-user_seperate_data/: Contains CSV files with user profiles for specific roles such as backend developer, content creator, etc.
+  -jobs_seperate_data/: Contains CSV files with job data for specific roles such as backend developer, content creator, etc.
 
-DistilBert_Testing.py: Python script for testing the DistilBert model checkpoints.
+  -user_seperate_data/: Contains CSV files with user profiles for specific roles such as backend developer, content creator, etc.
 
-Distilbert_Training.ipynb: Jupyter notebook for training the DistilBert model.
+  -DistilBert_Testing.py: Python script for testing the DistilBert model checkpoints.
 
-master_jobs_files.csv: CSV file with all jobs related to the roles from the jobs_seperate_data folder.
+  -Distilbert_Training.ipynb: Jupyter notebook for training the DistilBert model.
 
-training_data_generator.py: Python script for generating training data (positive and negative labelled data).
+  -master_jobs_files.csv: CSV file with all jobs related to the roles from the jobs_seperate_data folder.
 
-positive_labelled_data.csv: CSV file with positive labelled job data (jobs belonging to the user profiles).
+  -training_data_generator.py: Python script for generating training data (positive and negative labelled data).
 
-negative_labelled_data.csv: CSV file with negative labelled job data (jobs that do not belong to the user profiles).
+  -positive_labelled_data.csv: CSV file with positive labelled job data (jobs belonging to the user profiles).
+
+  -negative_labelled_data.csv: CSV file with negative labelled job data (jobs that do not belong to the user profiles).
 
 sentence_transformer_api/
 
