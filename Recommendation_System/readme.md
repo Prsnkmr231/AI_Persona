@@ -49,6 +49,7 @@ recommendation_system_and_api/
 │   ├── main.py
 │   ├── api.py
 │   └── README.md
+```
 
 
 
