@@ -10,6 +10,8 @@ app = FastAPI()
 
 print(f"testing")
 
+print(f"second change for testing the git")
+
 def load_config(config_file_path="config.json"):
     with open(config_file_path, 'r') as config_file:
         return json.load(config_file)
